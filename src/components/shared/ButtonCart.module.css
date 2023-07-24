@@ -1,0 +1,9 @@
+.buttonCart {
+    cursor: pointer;
+    outline: none;
+    background-color: transparent;
+    border-radius: 7px;
+    font-weight: bold;
+    padding: 7px 10px;
+    transition: all 0.3s;
+  }
